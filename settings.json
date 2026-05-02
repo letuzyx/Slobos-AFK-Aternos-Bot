@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "diaspearsmp.aternos.me:51713",
+    "ip": "diaspearsmp.aternos.me",
     "port": 51713,
     "version": "",
     "try-creative": false
